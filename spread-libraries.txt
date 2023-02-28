@@ -1,0 +1,17 @@
+statusbar- 
+gc.spread.common.x.x.x.min.js
+gc.spread.sheets.core.x.x.x.min.js
+gc.spread.sheets.statusbar.x.x.x.min.js
+
+
+Namebox
+    <script src="scripts/gc.spread.common.x.x.x.min.js"></script>
+
+    <script src="scripts/gc.spread.sheets.core.x.x.x.min.js"></script>
+    <script src="scripts/gc.spread.sheets.namebox.x.x.x.min.js"></script>
+
+
+Hyperlink
+    <script src="scripts/gc.spread.common.x.x.x.min.js"></script>
+    <script src="scripts/gc.spread.sheets.core.x.x.x.min.js"></script>
+    <script src="scripts/gc.spread.sheets.celltypes.x.x.x.min.js"></script>
